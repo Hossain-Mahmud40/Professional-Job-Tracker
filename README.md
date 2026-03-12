@@ -9,10 +9,6 @@ This project helps users keep track of job opportunities in one place, update ap
 - Live Site: add-your-live-link-here
 - GitHub Repository: add-your-repo-link-here
 
-## Preview
-
-![Job Tracker Screenshot](./jobs.png)
-
 ## Features
 
 - Add new job applications with company name, role, details, and description
@@ -99,4 +95,4 @@ Working through those parts helped me better understand how real frontend apps m
 
 ## Author
 
-Built by Alemr as a frontend practice project.
+Hossain Mahmud
